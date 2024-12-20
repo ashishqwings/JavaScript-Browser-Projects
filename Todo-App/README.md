@@ -32,12 +32,4 @@ Task Manager is a lightweight web application designed to help you organize and 
 
 The confirmation dialog prompts you to confirm or discard changes before closing the task form. Use the "Cancel" button to stay on the form or "Discard" to reset and close.
 
-## Getting Started
-
-To use Task Manager:
-
-1. Clone the repository:
-   `git clone https://github.com/Erikote04/Todo-App.git`
-2. Open the `index.html` file in a web browser.
-3. Start adding and managing your tasks.
 
