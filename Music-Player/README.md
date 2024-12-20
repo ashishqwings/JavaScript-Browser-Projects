@@ -72,11 +72,3 @@ const allSongs = [
 - [Roboto Mono](https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap)
 - [Lato](https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Mono&display=swap)
 
-## Getting Started
-
-1. Clone the repository:
-   `git clone https://github.com/Erikote04/Music-Player.git`
-  
-2. Open index.html in your preferred web browser.
-
-3. Start listening to music!
