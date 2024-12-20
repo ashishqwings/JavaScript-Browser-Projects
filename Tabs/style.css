@@ -1,0 +1,13 @@
+button{
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.selected-button{
+    background-color: blueviolet;
+    color: white;
+}
+
+.hidden-text{
+    display: none;
+}
