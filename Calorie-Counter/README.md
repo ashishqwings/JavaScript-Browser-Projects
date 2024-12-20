@@ -46,9 +46,3 @@ The logic behind the Calorie Counter is implemented in the `script.js` file. Key
 
 Feel free to explore and modify the script to customize the Calorie Counter or add new features.
 
-## Getting Started
-
-1. Clone the repository:
-   `git clone https://github.com/Erikote04/Calorie-Counter.git`
-2. Open index.html in your preferred web browser.
-3. Start tracking your daily calories with the Calorie Counter!
